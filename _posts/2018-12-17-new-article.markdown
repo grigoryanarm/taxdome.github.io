@@ -17,3 +17,7 @@ Instant view of your performance & where your attention is needed.
 The best client portal your clients ever did see. Custom branded for your firm.
 
 ![](/images/client-portal@3x-cdd46e9783edfbbf59574a70ff79ff63.jpg)
+
+## New header
+
+My _**text**_

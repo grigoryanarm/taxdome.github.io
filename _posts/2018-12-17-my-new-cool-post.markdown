@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "My new cool post"
+title: "Release 1.1"
 date: "2018-12-17 17:28"
 ---
 

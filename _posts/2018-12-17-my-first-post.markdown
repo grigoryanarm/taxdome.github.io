@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our new release!
+title: Release 1.0
 date: '2018-12-17 06:04:23 -0600'
 published: true
 tags:

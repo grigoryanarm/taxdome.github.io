@@ -1,7 +1,8 @@
 ---
-layout: "post"
-title: "Release 1.1"
-date: "2018-12-17 17:28"
+layout: post
+title: Release 1.1
+date: '2018-12-17 17:28'
+published: true
 ---
 
 ## It's my new post
@@ -14,6 +15,8 @@ the   | table | ha
 ------|-------|-------
 it    | is    | a
 table | my    | little
+
+### hello
 
 
 [google][f731c914]

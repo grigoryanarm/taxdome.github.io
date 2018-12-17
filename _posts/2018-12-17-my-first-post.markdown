@@ -10,6 +10,7 @@ date:   2018-12-17 06:04:23 -0600
 
 Release: 
 
- **1. New feature 1**
- *2. New feature 2*
- ~~3. New feature 3~~
+ 1. **New feature 1**
+ 2. *New feature 2*
+ 3. ~~New feature 3~~
+

@@ -9,15 +9,12 @@ published: true
 
 > we've done our new site
 
-Release: 
+Release:
 
  1. **New feature 1**
  2. *New feature 2*
  3. ~~New feature 3~~
- 
+
  - New line
  - One more line
  - hello!
- 
- [hello]({{site.baseurl}}/_posts/Windows_Homepage_Mac_1920_MultiHero-Item3_img.gif)
-

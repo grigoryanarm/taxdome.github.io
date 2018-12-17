@@ -18,7 +18,7 @@ table | my    | little
 
 ### hello
 
-![CR3_GettyImages-159018836.jpg]({{site.baseurl}}/_posts/CR3_GettyImages-159018836.jpg)
+![CR3_GettyImages-159018836.jpg]({{site.baseurl}}/images/CR3_GettyImages-159018836.jpg)
 
 
 
